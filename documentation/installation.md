@@ -8,7 +8,7 @@
 ## Installation de l'environnement
 ```bash
 # Clone le projet
-git clone 
+git clone https://github.com/Felicien410/Tokenizer.git
 cd code
 
 # Installe les dépendances

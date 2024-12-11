@@ -3,10 +3,9 @@
 Salut ! Ce projet c'est un token que j'ai créé sur BNB (BSC)
 
 ## C'est quoi un token ?
-C'est comme une monnaie numérique qui vit sur une blockchain. Dans mon cas, j'ai choisi la BNB Chain parce que :
-- Ça marche super bien avec MetaMask
+C'est comme une monnaie numérique qui vit sur une blockchain. Dans mon cas, j'ai choisi la BNB Chain parce que on me l'a conseillé, marche super bien avec MetaMask (pas eu beaoucoup de problèmes)
 
-## Mon token U42
+## Le token U42
 - Il peut y avoir maximum 42000 tokens
 - Je commence avec 1000 tokens
 - Je peux en créer plus si je veux (c'est ce qu'on appelle "minter")
@@ -30,6 +29,6 @@ C'est comme une monnaie numérique qui vit sur une blockchain. Dans mon cas, j'a
 3. Mettre 18 décimales
 
 ## La sécurité
-- Le contrat utilise OpenZeppelin (c'est comme une bibliothèque super sécurisée)
+- Le contrat utilise OpenZeppelin (c'est comme une bibliothèque sécurisée)
 - Seul le owner peut faire des actions dangereuses (comme créer plus de tokens)
 - Tout est vérifié sur la blockchain
